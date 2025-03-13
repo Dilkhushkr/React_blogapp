@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Blog Post",
+      "content": "This is the content of the first post.",
+      "image": "https://static.toiimg.com/photo/msid-101267463,width-96,height-65.cms"
+    },
+    {
+      "id": "2",
+      "title": "Second Blog Post",
+      "content": "This is the content of the second post.",
+      "image": "https://static.toiimg.com/photo/msid-101267463,width-96,height-65.cms"
+    },
+    {
+      "id": "dc24",
+      "title": "Third Blog Post",
+      "content": "This is about how you can live you life",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-PMeu4NegPfJIG_EdZ6o_6XiizFBfiUCHw&s"
+    }
+  ],
+  "messages": []
+}
